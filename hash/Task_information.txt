@@ -1,0 +1,26 @@
+
+Task- Information 
+
+1) In controller Folder
+	- Welcome Contorller File used
+
+2) Inside View/Login Folder 
+	-index.php file used
+
+3) Model Folder
+	-Common Model File used
+
+4) Js Validation File
+
+	- file name - login_validation.js file used for validtion
+
+	- path --assetsNew/customjs/login_validation.js
+
+5) CSS file Used
+	- file name - lcustom_style.css file used for style
+	- path -- assetsNew/custom_css/custom_style.css
+
+6) DB File - SQL Folder 
+
+	- "fresh_ci.sql"
+	- Table - users used

@@ -1,0 +1,10 @@
+#back_img{
+	background-image: url('../logo/fire2.jpg')!important;
+	background-size: cover;  background-position: center ; background-repeat: no-repeat!important;
+}
+
+#inner_img{
+	background-image: url('../logo/backgray.jpg')!important;
+	;background-size: cover;  background-position: center ; background-repeat: no-repeat;border-radius:70px 10px;border:2px solid #fff;
+}
+.
