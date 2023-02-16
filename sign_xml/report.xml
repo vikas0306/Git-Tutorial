@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>1</id>
+    <name>Sam</name>
+    <mobile>1800180025</mobile>
+  </user>
+  <user>
+    <id>2</id>
+    <name>Tom</name>
+    <mobile>1800180080</mobile>
+  </user>
+</users>
